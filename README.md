@@ -1,0 +1,1 @@
+This docker image is based on Scientific Linux 7 (Nitrogen) and is built with miniconda installed
